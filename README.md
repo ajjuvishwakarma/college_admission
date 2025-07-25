@@ -44,5 +44,11 @@ HOW TO RUN:
 The comlete project report is available in the report folder as a PDF.
 
 /<img width="939" height="800" alt="image" src="https://github.com/user-attachments/assets/1232c4fe-a531-4d5c-933c-a8bbd6da217e" />
+<img width="939" height="966" alt="image" src="https://github.com/user-attachments/assets/4fe395a1-5bf3-46d1-bc90-913dc3dfef23" />
+<img width="930" height="1098" alt="image" src="https://github.com/user-attachments/assets/45d73447-8587-41dc-bb68-cecf13113536" />
+<img width="700" height="712" alt="image" src="https://github.com/user-attachments/assets/7cc55875-6445-41f1-8668-d277cd82bbf8" />
+
+
+
 
 
